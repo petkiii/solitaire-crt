@@ -38,7 +38,7 @@ Draw-1, unlimited recycles. Standard scoring: waste→tableau +5, →foundation
 +10, tableau→foundation +10, card flip +5, foundation→tableau −15, recycle
 −100, floored at 0.
 
-## Layout
+## Structure
 
 - `src/engine/` — headless Klondike engine: rules, moves, undo, hints
 - `src/game.rs` — session state (scoring, timer), board↔engine sync, auto-complete, win cascade
