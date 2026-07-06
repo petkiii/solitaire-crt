@@ -2,6 +2,10 @@
 
 Classic Klondike solitaire in Rust + Bevy, heavily inspired by Balatro.
 
+
+https://github.com/user-attachments/assets/8e8ffcb2-2d5f-431e-af35-f4ca444f1b41
+
+
 ## Run
 
 ```sh
