@@ -56,6 +56,10 @@ Draw-1, unlimited recycles. Standard scoring: waste→tableau +5, →foundation
 - `src/post.rs` + `assets/shaders/crt.wgsl` — CRT post-process pass
 - `src/settings.rs` — load/save `settings.toml`
 
+## Note
+
+- Fully vibecoded with Fable 5
+
 ## Credits
 
 - Font: [m6x11plus](https://managore.itch.io/m6x11) by Daniel Linssen
